@@ -1,0 +1,199 @@
+[Error loading page] https://surak.baribar.kz/questions?start=4000 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=4025 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=3050 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=1125 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=1250 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=3350 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=1425 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=1450 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=4450 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=3475 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=3600 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=4850 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=7050 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=7075 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=7100 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=9050 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6125 |  exception: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010299a510 chromedriver + 4302096
+1   chromedriver                        0x0000000102992e58 chromedriver + 4271704
+2   chromedriver                        0x00000001025c419c chromedriver + 278940
+3   chromedriver                        0x00000001026062c4 chromedriver + 549572
+4   chromedriver                        0x000000010263ec5c chromedriver + 781404
+5   chromedriver                        0x00000001025fb004 chromedriver + 503812
+6   chromedriver                        0x00000001025fb9ec chromedriver + 506348
+7   chromedriver                        0x0000000102962558 chromedriver + 4072792
+8   chromedriver                        0x0000000102967004 chromedriver + 4091908
+9   chromedriver                        0x000000010294979c chromedriver + 3970972
+10  chromedriver                        0x00000001029678ec chromedriver + 4094188
+11  chromedriver                        0x000000010293c71c chromedriver + 3917596
+12  chromedriver                        0x0000000102984b50 chromedriver + 4213584
+13  chromedriver                        0x0000000102984ccc chromedriver + 4213964
+14  chromedriver                        0x0000000102992a50 chromedriver + 4270672
+15  libsystem_pthread.dylib             0x000000019b40ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019b40ada0 thread_start + 8
+
+[Error loading page] https://surak.baribar.kz/questions?start=7150 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=7225 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=7250 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=9200 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6300 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=7300 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6375 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6400 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=9400 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=8400 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=9500 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6675 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6725 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6750 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6775 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=6800 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6850 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6875 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6900 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=9750 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=5775 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6925 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=6975 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=8850 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=8900 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=9925 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=12000 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=12025 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=13025 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11100 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=10250 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=14150 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=12225 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11250 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=10375 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=14225 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11300 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=10425 |  exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"form > div > form > div > div"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010299a510 chromedriver + 4302096
+1   chromedriver                        0x0000000102992e58 chromedriver + 4271704
+2   chromedriver                        0x00000001025c419c chromedriver + 278940
+3   chromedriver                        0x00000001026062c4 chromedriver + 549572
+4   chromedriver                        0x00000001025fc85c chromedriver + 510044
+5   chromedriver                        0x000000010263ec5c chromedriver + 781404
+6   chromedriver                        0x00000001025fb004 chromedriver + 503812
+7   chromedriver                        0x00000001025fb9ec chromedriver + 506348
+8   chromedriver                        0x0000000102962558 chromedriver + 4072792
+9   chromedriver                        0x0000000102967004 chromedriver + 4091908
+10  chromedriver                        0x000000010294979c chromedriver + 3970972
+11  chromedriver                        0x00000001029678ec chromedriver + 4094188
+12  chromedriver                        0x000000010293c71c chromedriver + 3917596
+13  chromedriver                        0x0000000102984b50 chromedriver + 4213584
+14  chromedriver                        0x0000000102984ccc chromedriver + 4213964
+15  chromedriver                        0x0000000102992a50 chromedriver + 4270672
+16  libsystem_pthread.dylib             0x000000019b40ffa8 _pthread_start + 148
+17  libsystem_pthread.dylib             0x000000019b40ada0 thread_start + 8
+
+[Error loading page] https://surak.baribar.kz/questions?start=11375 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=13350 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11475 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11500 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11525 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11575 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11650 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=14550 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=11700 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=13675 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16000 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16075 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17000 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18000 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=18025 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17025 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=18075 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16175 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19000 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19025 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19050 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=15275 |  exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"body > div.qa-body-wrapper > div > div.qa-main > div.qa-part-q-list > form > div.qa-q-list.qa-q-list-vote-disabled"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010299a510 chromedriver + 4302096
+1   chromedriver                        0x0000000102992e58 chromedriver + 4271704
+2   chromedriver                        0x00000001025c419c chromedriver + 278940
+3   chromedriver                        0x00000001026062c4 chromedriver + 549572
+4   chromedriver                        0x000000010263ec5c chromedriver + 781404
+5   chromedriver                        0x00000001025fb004 chromedriver + 503812
+6   chromedriver                        0x00000001025fb9ec chromedriver + 506348
+7   chromedriver                        0x0000000102962558 chromedriver + 4072792
+8   chromedriver                        0x0000000102967004 chromedriver + 4091908
+9   chromedriver                        0x000000010294979c chromedriver + 3970972
+10  chromedriver                        0x00000001029678ec chromedriver + 4094188
+11  chromedriver                        0x000000010293c71c chromedriver + 3917596
+12  chromedriver                        0x0000000102984b50 chromedriver + 4213584
+13  chromedriver                        0x0000000102984ccc chromedriver + 4213964
+14  chromedriver                        0x0000000102992a50 chromedriver + 4270672
+15  libsystem_pthread.dylib             0x000000019b40ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019b40ada0 thread_start + 8
+
+[Error loading page] https://surak.baribar.kz/questions?start=18200 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19150 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16300 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18275 |  exception: invalid literal for int() with base 10: '–3'
+[Error loading page] https://surak.baribar.kz/questions?start=17225 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19200 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16375 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=19250 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16400 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18350 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17300 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16425 |  exception: invalid literal for int() with base 10: '–3'
+[Error loading page] https://surak.baribar.kz/questions?start=16450 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19300 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16475 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19325 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18400 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17375 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18425 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18450 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19400 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18475 |  exception: invalid literal for int() with base 10: '–3'
+[Error loading page] https://surak.baribar.kz/questions?start=18525 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=15575 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=15625 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19500 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16625 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=15650 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18600 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18625 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18650 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17550 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19550 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=15700 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19575 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19600 |  exception: invalid literal for int() with base 10: '–3'
+[Error loading page] https://surak.baribar.kz/questions?start=18675 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16700 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18725 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19650 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19675 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16750 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19725 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18775 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18800 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=16800 |  exception: invalid literal for int() with base 10: '–3'
+[Error loading page] https://surak.baribar.kz/questions?start=18825 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18850 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19775 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19800 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18875 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=18900 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19825 |  exception: invalid literal for int() with base 10: '–3'
+[Error loading page] https://surak.baribar.kz/questions?start=17725 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=18950 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=19875 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17775 |  exception: invalid literal for int() with base 10: '–4'
+[Error loading page] https://surak.baribar.kz/questions?start=18975 |  exception: invalid literal for int() with base 10: '–2'
+[Error loading page] https://surak.baribar.kz/questions?start=17825 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17875 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17900 |  exception: invalid literal for int() with base 10: '–1'
+[Error loading page] https://surak.baribar.kz/questions?start=17950 |  exception: invalid literal for int() with base 10: '–1'
